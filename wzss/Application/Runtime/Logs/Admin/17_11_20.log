@@ -1,0 +1,517 @@
+[ 2017-11-20T08:32:22+08:00 ] 127.0.0.1 /Admin/Login/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-20T08:32:39+08:00 ] 127.0.0.1 /Admin/Login/check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0890s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0960s ]
+SQL: SELECT * FROM `user` WHERE ( name='admin' and password = 'efe6398127928f1b2e9ef3207fb82663' )  [ RunTime:0.0840s ]
+
+[ 2017-11-20T08:32:45+08:00 ] 127.0.0.1 /index.php/Admin/Index/demo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0580s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0620s ]
+SQL: SELECT a.*,m.id as m_id,m.`name`,m.modular,m.controller,m.method FROM access a LEFT JOIN menu m ON m.id = a.menu_id   [ RunTime:0.3870s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.024002s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.026001s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-11-20T08:32:48+08:00 ] 127.0.0.1 /index.php/Admin/Index/vendors/jquery-1.9.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0590s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0580s ]
+SQL: SELECT a.*,m.id as m_id,m.`name`,m.modular,m.controller,m.method FROM access a LEFT JOIN menu m ON m.id = a.menu_id   [ RunTime:0.0570s ]
+ERR: 非法操作:vendors
+
+[ 2017-11-20T08:32:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/scripts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0600s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0580s ]
+SQL: SELECT a.*,m.id as m_id,m.`name`,m.modular,m.controller,m.method FROM access a LEFT JOIN menu m ON m.id = a.menu_id   [ RunTime:0.0570s ]
+ERR: 非法操作:assets
+
+[ 2017-11-20T08:32:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0500s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0520s ]
+SQL: SELECT a.*,m.id as m_id,m.`name`,m.modular,m.controller,m.method FROM access a LEFT JOIN menu m ON m.id = a.menu_id   [ RunTime:0.0490s ]
+ERR: 非法操作:bootstrap
+
+[ 2017-11-20T08:32:50+08:00 ] 127.0.0.1 /index.php/Admin/Index/assets/scripts.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0630s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0770s ]
+SQL: SELECT a.*,m.id as m_id,m.`name`,m.modular,m.controller,m.method FROM access a LEFT JOIN menu m ON m.id = a.menu_id   [ RunTime:0.0830s ]
+ERR: 非法操作:assets
+
+[ 2017-11-20T08:36:33+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0550s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0610s ]
+SQL: SELECT a.*,m.id as m_id,m.`name`,m.modular,m.controller,m.method FROM access a LEFT JOIN menu m ON m.id = a.menu_id   [ RunTime:0.0620s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0630s ]
+NOTIC: [2] Missing argument 2 for Admin\Model\UserModel::getNum(), called in D:\PhpStudy\web\thinkphp\Application\Admin\Controller\IndexController.class.php on line 92 and defined D:\PhpStudy\web\thinkphp\Application\Admin\Model\UserModel.class.php 第 17 行.
+NOTIC: [8] Undefined variable: wherer D:\PhpStudy\web\thinkphp\Application\Admin\Model\UserModel.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0690s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `admin` LIMIT 1   [ RunTime:0.0560s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0580s ]
+SQL: SELECT * FROM `admin` WHERE ( 1=1 ) ORDER BY id desc LIMIT 0,10   [ RunTime:0.0550s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.020001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.003000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.020001s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-20T08:36:39+08:00 ] 127.0.0.1 /Admin/Department/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0940s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0990s ]
+SQL: SELECT a.*,m.id as m_id,m.`name`,m.modular,m.controller,m.method FROM access a LEFT JOIN menu m ON m.id = a.menu_id   [ RunTime:0.0970s ]
+SQL: SHOW COLUMNS FROM `department` [ RunTime:0.0900s ]
+SQL: SHOW COLUMNS FROM `department` [ RunTime:0.0920s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `department` LIMIT 1   [ RunTime:0.1050s ]
+SQL: SHOW COLUMNS FROM `department` [ RunTime:0.0920s ]
+SQL: SELECT d.*,ds.`name` as dname FROM department d left JOIN department ds ON ds.department_id = d.parent_id  WHERE ( d.department_id > 0 ) ORDER BY department_id desc LIMIT 0,10   [ RunTime:0.0900s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.011000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\web\thinkphp\Application\Runtime\Cache\Admin\f2baec771aba0772b0875523439f11eb.php 第 66 行.
+NOTIC: [8] Undefined index: id D:\PhpStudy\web\thinkphp\Application\Runtime\Cache\Admin\f2baec771aba0772b0875523439f11eb.php 第 66 行.
+NOTIC: [8] Undefined index: id D:\PhpStudy\web\thinkphp\Application\Runtime\Cache\Admin\f2baec771aba0772b0875523439f11eb.php 第 66 行.
+NOTIC: [8] Undefined index: id D:\PhpStudy\web\thinkphp\Application\Runtime\Cache\Admin\f2baec771aba0772b0875523439f11eb.php 第 66 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.003000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.012001s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-11-20T08:36:40+08:00 ] 127.0.0.1 /Admin/Role/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0790s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0750s ]
+SQL: SELECT a.*,m.id as m_id,m.`name`,m.modular,m.controller,m.method FROM access a LEFT JOIN menu m ON m.id = a.menu_id   [ RunTime:0.0780s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.0830s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.0810s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `role` LIMIT 1   [ RunTime:0.0840s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.0820s ]
+SQL: SELECT * FROM `role` WHERE ( 1=1 ) ORDER BY id desc LIMIT 0,10   [ RunTime:0.0780s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.019001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.003001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.017001s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-11-20T08:36:41+08:00 ] 127.0.0.1 /Admin/Menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0860s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0860s ]
+SQL: SELECT a.*,m.id as m_id,m.`name`,m.modular,m.controller,m.method FROM access a LEFT JOIN menu m ON m.id = a.menu_id   [ RunTime:0.0870s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.1160s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0880s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `menu` LIMIT 1   [ RunTime:0.0790s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0800s ]
+SQL: SELECT * FROM `menu` WHERE ( 1=1 ) ORDER BY id desc LIMIT 0,10   [ RunTime:0.1040s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.017001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.003000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.022001s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-11-20T08:36:44+08:00 ] 127.0.0.1 /Admin/Department/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0500s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0550s ]
+SQL: SELECT a.*,m.id as m_id,m.`name`,m.modular,m.controller,m.method FROM access a LEFT JOIN menu m ON m.id = a.menu_id   [ RunTime:0.0490s ]
+SQL: SHOW COLUMNS FROM `department` [ RunTime:0.0500s ]
+SQL: SHOW COLUMNS FROM `department` [ RunTime:0.0500s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `department` LIMIT 1   [ RunTime:0.0500s ]
+SQL: SHOW COLUMNS FROM `department` [ RunTime:0.0510s ]
+SQL: SELECT d.*,ds.`name` as dname FROM department d left JOIN department ds ON ds.department_id = d.parent_id  WHERE ( d.department_id > 0 ) ORDER BY department_id desc LIMIT 0,10   [ RunTime:0.0500s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.011001s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\web\thinkphp\Application\Runtime\Cache\Admin\f2baec771aba0772b0875523439f11eb.php 第 66 行.
+NOTIC: [8] Undefined index: id D:\PhpStudy\web\thinkphp\Application\Runtime\Cache\Admin\f2baec771aba0772b0875523439f11eb.php 第 66 行.
+NOTIC: [8] Undefined index: id D:\PhpStudy\web\thinkphp\Application\Runtime\Cache\Admin\f2baec771aba0772b0875523439f11eb.php 第 66 行.
+NOTIC: [8] Undefined index: id D:\PhpStudy\web\thinkphp\Application\Runtime\Cache\Admin\f2baec771aba0772b0875523439f11eb.php 第 66 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.003000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.016001s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-11-20T08:36:46+08:00 ] 127.0.0.1 /Admin/Role/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0600s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0630s ]
+SQL: SELECT a.*,m.id as m_id,m.`name`,m.modular,m.controller,m.method FROM access a LEFT JOIN menu m ON m.id = a.menu_id   [ RunTime:0.0500s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.0570s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.0520s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `role` LIMIT 1   [ RunTime:0.0490s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.0550s ]
+SQL: SELECT * FROM `role` WHERE ( 1=1 ) ORDER BY id desc LIMIT 0,10   [ RunTime:0.0510s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.011000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.010000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-20T08:36:48+08:00 ] 127.0.0.1 /Admin/Menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0490s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0500s ]
+SQL: SELECT a.*,m.id as m_id,m.`name`,m.modular,m.controller,m.method FROM access a LEFT JOIN menu m ON m.id = a.menu_id   [ RunTime:0.0520s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0530s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0530s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `menu` LIMIT 1   [ RunTime:0.0590s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0500s ]
+SQL: SELECT * FROM `menu` WHERE ( 1=1 ) ORDER BY id desc LIMIT 0,10   [ RunTime:0.0500s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.011001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.014001s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-11-20T08:36:53+08:00 ] 127.0.0.1 /Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0940s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0940s ]
+SQL: SELECT a.*,m.id as m_id,m.`name`,m.modular,m.controller,m.method FROM access a LEFT JOIN menu m ON m.id = a.menu_id   [ RunTime:0.0870s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0900s ]
+NOTIC: [2] Missing argument 2 for Admin\Model\UserModel::getNum(), called in D:\PhpStudy\web\thinkphp\Application\Admin\Controller\IndexController.class.php on line 92 and defined D:\PhpStudy\web\thinkphp\Application\Admin\Model\UserModel.class.php 第 17 行.
+NOTIC: [8] Undefined variable: wherer D:\PhpStudy\web\thinkphp\Application\Admin\Model\UserModel.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0890s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `admin` LIMIT 1   [ RunTime:0.0880s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0900s ]
+SQL: SELECT * FROM `admin` WHERE ( 1=1 ) ORDER BY id desc LIMIT 0,10   [ RunTime:0.0940s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.017001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.003001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.018001s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-11-20T08:36:57+08:00 ] 127.0.0.1 /Admin/Menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0960s ]
+SQL: SHOW COLUMNS FROM `access` [ RunTime:0.0990s ]
+SQL: SELECT a.*,m.id as m_id,m.`name`,m.modular,m.controller,m.method FROM access a LEFT JOIN menu m ON m.id = a.menu_id   [ RunTime:0.1010s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0920s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0900s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `menu` LIMIT 1   [ RunTime:0.0940s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0980s ]
+SQL: SELECT * FROM `menu` WHERE ( 1=1 ) ORDER BY id desc LIMIT 0,10   [ RunTime:0.0940s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.008000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.006000s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php:95) D:\PhpStudy\web\thinkphp\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-11-20T11:34:58+08:00 ] 127.0.0.1 /index.php/Admin/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant URL - assumed 'URL' D:\PhpStudy\web\thinkphp\Application\Runtime\Cache\Admin\48b3528d6b7fc59839bea6f3dc828237.php 第 9 行.
+NOTIC: [8] Undefined variable: url D:\PhpStudy\web\thinkphp\Application\Runtime\Cache\Admin\48b3528d6b7fc59839bea6f3dc828237.php 第 12 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-20T11:34:59+08:00 ] 127.0.0.1 /Admin/Login/verify/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:verify
+

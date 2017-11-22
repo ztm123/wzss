@@ -1,0 +1,1992 @@
+[ 2017-11-20T08:20:05+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-11-20T08:32:22+08:00 ] 127.0.0.1 /js/vendor/modernizr-2.6.2-respond-1.1.0.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Js
+
+[ 2017-11-20T10:02:21+08:00 ] 127.0.0.1 /css/normalize.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:02:21+08:00 ] 127.0.0.1 /css/component.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:02:21+08:00 ] 127.0.0.1 /css/demo.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:03:04+08:00 ] 127.0.0.1 /css/img/demo-1-bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:03:04+08:00 ] 127.0.0.1 /css/img/login_ico.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:03:37+08:00 ] 127.0.0.1 /css/img/demo-1-bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:03:37+08:00 ] 127.0.0.1 /css/img/login_ico.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:04:00+08:00 ] 127.0.0.1 /css/img/demo-1-bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:04:00+08:00 ] 127.0.0.1 /css/img/login_ico.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:04:09+08:00 ] 127.0.0.1 /css/img/demo-1-bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:04:53+08:00 ] 127.0.0.1 /css/login/..img/demo-1-bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:04:54+08:00 ] 127.0.0.1 /css/login/.img/demo-1-bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:04:55+08:00 ] 127.0.0.1 /css/login/img/demo-1-bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:04:56+08:00 ] 127.0.0.1 /css/login/%E3%80%81img/demo-1-bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:04:57+08:00 ] 127.0.0.1 /css/login/img/demo-1-bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:05:03+08:00 ] 127.0.0.1 /css/login/img/demo-1-bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:05:47+08:00 ] 127.0.0.1 /css/img/demo-1-bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:05:47+08:00 ] 127.0.0.1 /css/img/login_ico.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:05:51+08:00 ] 127.0.0.1 /css/img/demo-1-bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:05:51+08:00 ] 127.0.0.1 /css/img/login_ico.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:05:52+08:00 ] 127.0.0.1 /css/img/demo-1-bg.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:05:52+08:00 ] 127.0.0.1 /css/img/login_ico.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:05:54+08:00 ] 127.0.0.1 /css/img/login_ico.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:05:56+08:00 ] 127.0.0.1 /css/img/login_ico.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:06:05+08:00 ] 127.0.0.1 /css/img/login_ico.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Css
+
+[ 2017-11-20T10:06:40+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /dist/css/AdminLTE.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /bower_components/jvectormap/jquery-jvectormap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /bower_components/morris.js/morris.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /bower_components/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /dist/css/skins/_all-skins.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /bower_components/bootstrap-daterangepicker/daterangepicker.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /bower_components/jquery/dist/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /bower_components/Ionicons/css/ionicons.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /bower_components/jquery-ui/jquery-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /bower_components/bootstrap/dist/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /bower_components/jquery-sparkline/dist/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /bower_components/morris.js/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /bower_components/raphael/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /bower_components/jquery-knob/dist/jquery.knob.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /bower_components/moment/min/moment.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /bower_components/bootstrap-daterangepicker/daterangepicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /bower_components/fastclick/lib/fastclick.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /bower_components/jquery-slimscroll/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /dist/js/adminlte.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /dist/img/user4-128x128.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /dist/img/user3-128x128.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /dist/img/user2-160x160.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /dist/js/pages/dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /dist/js/demo.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:52:52+08:00 ] 127.0.0.1 /bower_components/morris.js/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /bower_components/jquery-sparkline/dist/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /bower_components/jquery-knob/dist/jquery.knob.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /bower_components/moment/min/moment.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /bower_components/bootstrap-daterangepicker/daterangepicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /bower_components/jquery-slimscroll/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /bower_components/fastclick/lib/fastclick.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /dist/js/adminlte.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /dist/js/pages/dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /dist/js/demo.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /bower_components/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /bower_components/morris.js/morris.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /dist/css/AdminLTE.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /bower_components/Ionicons/css/ionicons.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bootstrap
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /dist/css/skins/_all-skins.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /bower_components/jvectormap/jquery-jvectormap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /bower_components/bootstrap-daterangepicker/daterangepicker.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /bower_components/jquery/dist/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /bower_components/raphael/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /bower_components/bootstrap/dist/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /bower_components/jquery-sparkline/dist/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /bower_components/morris.js/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /bower_components/jquery-knob/dist/jquery.knob.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /bower_components/jquery-ui/jquery-ui.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /bower_components/moment/min/moment.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:52:53+08:00 ] 127.0.0.1 /bower_components/bootstrap-daterangepicker/daterangepicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /dist/img/user3-128x128.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /bower_components/jquery-slimscroll/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /dist/img/user4-128x128.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /bower_components/bootstrap/dist/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /bower_components/fastclick/lib/fastclick.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /dist/js/pages/dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /dist/img/user2-160x160.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /bower_components/raphael/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /dist/js/adminlte.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /dist/js/demo.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /bower_components/morris.js/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /bower_components/jquery-sparkline/dist/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /bower_components/jquery-knob/dist/jquery.knob.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /bower_components/moment/min/moment.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /bower_components/bootstrap-daterangepicker/daterangepicker.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /bower_components/jquery-slimscroll/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /bower_components/fastclick/lib/fastclick.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /dist/js/adminlte.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /dist/js/pages/dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:52:54+08:00 ] 127.0.0.1 /dist/js/demo.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:25+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:55:25+08:00 ] 127.0.0.1 /dist/css/AdminLTE.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:25+08:00 ] 127.0.0.1 /dist/css/skins/_all-skins.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:25+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:26+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:26+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:26+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:26+08:00 ] 127.0.0.1 /dist/img/user2-160x160.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:26+08:00 ] 127.0.0.1 /dist/img/user4-128x128.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:26+08:00 ] 127.0.0.1 /dist/img/user3-128x128.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:26+08:00 ] 127.0.0.1 /dist/js/adminlte.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:26+08:00 ] 127.0.0.1 /dist/js/pages/dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:26+08:00 ] 127.0.0.1 /dist/js/demo.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:26+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:26+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:26+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:26+08:00 ] 127.0.0.1 /dist/js/adminlte.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:26+08:00 ] 127.0.0.1 /dist/js/pages/dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:26+08:00 ] 127.0.0.1 /dist/js/demo.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:27+08:00 ] 127.0.0.1 /dist/css/AdminLTE.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:27+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:27+08:00 ] 127.0.0.1 /dist/css/skins/_all-skins.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:27+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:55:27+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:27+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:27+08:00 ] 127.0.0.1 /dist/js/adminlte.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:27+08:00 ] 127.0.0.1 /dist/js/pages/dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:27+08:00 ] 127.0.0.1 /dist/js/demo.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:27+08:00 ] 127.0.0.1 /dist/img/user2-160x160.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:27+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:27+08:00 ] 127.0.0.1 /dist/img/user3-128x128.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:27+08:00 ] 127.0.0.1 /dist/img/user4-128x128.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:27+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:27+08:00 ] 127.0.0.1 /dist/js/adminlte.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:27+08:00 ] 127.0.0.1 /dist/js/pages/dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:27+08:00 ] 127.0.0.1 /dist/js/demo.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:28+08:00 ] 127.0.0.1 /dist/css/skins/_all-skins.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:28+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:28+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:55:28+08:00 ] 127.0.0.1 /dist/css/AdminLTE.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:28+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005001s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:28+08:00 ] 127.0.0.1 /dist/js/adminlte.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:28+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:28+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:28+08:00 ] 127.0.0.1 /dist/js/pages/dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:28+08:00 ] 127.0.0.1 /dist/js/demo.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:28+08:00 ] 127.0.0.1 /dist/img/user2-160x160.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:28+08:00 ] 127.0.0.1 /dist/img/user4-128x128.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:28+08:00 ] 127.0.0.1 /dist/img/user3-128x128.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:28+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:28+08:00 ] 127.0.0.1 /dist/js/adminlte.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:28+08:00 ] 127.0.0.1 /dist/js/pages/dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:28+08:00 ] 127.0.0.1 /dist/js/demo.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:29+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:55:29+08:00 ] 127.0.0.1 /dist/css/skins/_all-skins.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:29+08:00 ] 127.0.0.1 /dist/css/AdminLTE.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:29+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:29+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:29+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:29+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:29+08:00 ] 127.0.0.1 /dist/js/adminlte.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:29+08:00 ] 127.0.0.1 /dist/js/pages/dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:29+08:00 ] 127.0.0.1 /dist/js/demo.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:29+08:00 ] 127.0.0.1 /dist/img/user2-160x160.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:29+08:00 ] 127.0.0.1 /dist/img/user3-128x128.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:29+08:00 ] 127.0.0.1 /dist/img/user4-128x128.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:29+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:29+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:29+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:29+08:00 ] 127.0.0.1 /dist/js/adminlte.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:29+08:00 ] 127.0.0.1 /dist/js/pages/dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:29+08:00 ] 127.0.0.1 /dist/js/demo.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /dist/css/skins/_all-skins.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /dist/css/AdminLTE.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /dist/js/demo.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /dist/img/user3-128x128.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /dist/js/pages/dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /dist/img/user2-160x160.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /dist/js/adminlte.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /dist/img/user4-128x128.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /dist/css/skins/_all-skins.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /dist/css/AdminLTE.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /dist/css/skins/_all-skins.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /dist/css/AdminLTE.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:30+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:31+08:00 ] 127.0.0.1 /dist/js/adminlte.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:31+08:00 ] 127.0.0.1 /dist/js/demo.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:31+08:00 ] 127.0.0.1 /dist/img/user4-128x128.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:31+08:00 ] 127.0.0.1 /dist/img/user2-160x160.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:31+08:00 ] 127.0.0.1 /dist/img/user3-128x128.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:31+08:00 ] 127.0.0.1 /dist/js/pages/dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:31+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:31+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:31+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:31+08:00 ] 127.0.0.1 /dist/js/adminlte.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:31+08:00 ] 127.0.0.1 /dist/js/pages/dashboard.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:31+08:00 ] 127.0.0.1 /dist/js/demo.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Dist
+
+[ 2017-11-20T10:55:31+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-11-20T10:55:55+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:55+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:55:55+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:55+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:55:55+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:56:08+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:56:08+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:56:08+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:56:08+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:56:08+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:56:08+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:56:08+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:56:08+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:56:09+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-11-20T10:56:09+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:56:09+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:56:09+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:56:09+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:56:09+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:56:09+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:56:09+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:56:09+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:56:10+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-11-20T10:57:01+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:57:01+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:01+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:01+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:01+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:01+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:01+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:02+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:57:02+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:02+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:02+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:02+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:02+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:02+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:03+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:57:03+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:03+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:03+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:03+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:03+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:03+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:03+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:03+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-11-20T10:57:57+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:57:57+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:57+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:57+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:57+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:57+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:57+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:57+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:57:57+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:57+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:57+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:58+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:58+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:58+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:59+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:59+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:57:59+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:59+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:59+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:59+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:59+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:57:59+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:58:00+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:58:00+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:58:00+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:58:00+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:58:00+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:58:00+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-1.2.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:58:00+08:00 ] 127.0.0.1 /plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:58:00+08:00 ] 127.0.0.1 /plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Plugins
+
+[ 2017-11-20T10:58:00+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-11-20T10:58:49+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:58:50+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:58:51+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:58:52+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-11-20T10:58:53+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:58:53+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:58:54+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T10:58:55+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-11-20T11:00:03+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T11:00:05+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T11:00:06+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T11:00:07+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-11-20T11:00:09+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T11:00:11+08:00 ] 127.0.0.1 /bower_components/bootstrap/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T11:01:30+08:00 ] 127.0.0.1 /bower_components/bootstrap/dist/css/ootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T11:02:12+08:00 ] 127.0.0.1 /bower_components/bootstrap/dist/css/ootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T11:02:13+08:00 ] 127.0.0.1 /bower_components/bootstrap/dist/css/ootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T11:02:21+08:00 ] 127.0.0.1 /bower_components/bootstrap/dist/css/ootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T11:02:58+08:00 ] 127.0.0.1 /bower_components/bootstrap/dist/css/ootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T11:03:02+08:00 ] 127.0.0.1 /bower_components/bootstrap/dist/css/ootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Bower_components
+
+[ 2017-11-20T11:24:03+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-11-20T11:24:04+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-11-20T11:24:51+08:00 ] 127.0.0.1 /index2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Index2
+
+[ 2017-11-20T11:27:33+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Favicon
+
